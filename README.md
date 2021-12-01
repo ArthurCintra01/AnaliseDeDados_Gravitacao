@@ -1,4 +1,4 @@
-# AnaliseDeDados_Gravitacao
+# AnaliseDeDados_Gravitação
 
 Nesse projeto recolhemos o tempo de queda de um objeto 5 vezes em 5 alturas diferentes.
 
